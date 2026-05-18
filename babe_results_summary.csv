@@ -1,0 +1,22 @@
+Model,Feature Set,Task,Key Metric,Value
+LR,Combined,Classification,F1 Macro,0.8883756593374029
+SVM,Hand,Classification,F1 Macro,0.8870447210696173
+LR,Hand,Classification,F1 Macro,0.8870447210696173
+RF,Combined,Classification,F1 Macro,0.8870447210696173
+XGB,Combined,Classification,F1 Macro,0.8856666666666666
+SVM,Combined,Classification,F1 Macro,0.8856666666666666
+RF,Hand,Classification,F1 Macro,0.8843117684420652
+XGB,Hand,Classification,F1 Macro,0.8802222222222222
+LR,Emb,Classification,F1 Macro,0.7683949463944126
+SVM,Emb,Classification,F1 Macro,0.7682953061951103
+RF,Emb,Classification,F1 Macro,0.7513642716945221
+XGB,Emb,Classification,F1 Macro,0.7423057159658597
+XGB,Combined,Regression,RMSE,1.6388152426345877
+Ordinal,Combined,Regression,RMSE,1.6507439262962869
+RF,Combined,Regression,RMSE,1.6603798592622612
+Ordinal,Hand,Regression,RMSE,1.756016789779185
+RF,Hand,Regression,RMSE,1.7663622793968632
+XGB,Hand,Regression,RMSE,1.8131289072159713
+Ordinal,Emb,Regression,RMSE,2.5312528961938585
+XGB,Emb,Regression,RMSE,2.6778249641940537
+RF,Emb,Regression,RMSE,2.853861144687766
